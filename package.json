@@ -1,0 +1,18 @@
+{
+  "name": "eu-entendi-a-referencia",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Um package muito doido para gerar referencias aleatorias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "eu-entendi-a-referencia": "index.js"
+  },
+  "author": "Braddock",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
